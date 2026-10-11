@@ -1,5 +1,13 @@
 # deepseek-v4-pro semantic-loopback
 
+## 官方上游与版本溯源
+- 官方仓库（Upstream Repository）：https://github.com/DeepSeek-V4-Pro/semantic_loopback_engine
+- 官方作者（Author / Maintainer）：DeepSeek-V4-Pro
+- 功能定位：语义回环调度与记忆反思引擎
+- 本地演进定位：基于官方上游最新版本，融入本地生产环境兼容性定制与稳定性加固。
+- 本地专属定制：本地完成 1.2.x 严格 manifest 适配与生命周期安全托管。
+
+
 ## 插件基本信息
 
 - 插件 ID：`deepseek-v4-pro.semantic-loopback`
